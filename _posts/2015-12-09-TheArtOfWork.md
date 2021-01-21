@@ -9,8 +9,8 @@ image: assets/images/books.jpg
 <p>I resisted resistance and fear, did the work, and accomplished my lifetime, destiny altering goal. Thank you, Steven.</p>
 <p>Recently, Mike at Speakeasy contacted me with an opportunity to receive a free review copy of <a href="http://goinswriter.com/" target="_blank" rel="noopener">Jeff Goin's</a> <em><a href="http://amzn.to/1IVDzQG" target="_blank" rel="noopener">The Art of Work</a>. </em>I immediately noticed the homage to Pressfield's work in the title. Seeing that Pressfield endorsed <em>The Art of Work</em> sealed the deal: Let's see what Goins has to say.
   
-<img align="left" width="328" height="499" src="http://ecx.images-amazon.com/images/I/41RnIpNR85L._SX326_BO1,204,203,200_.jpg">
-<p>While Pressfield reflects on how to get our work done, Goins is reflecting on what work we should be doing. How do we discover and live into the calling to our true life work? Goins reflects on the nature of calling and discovering our vocation. By listening to people's stories he discovers and unpacks seven common characteristics of people who embrace their calling:</p>
+<p><img align="right" width="328" height="499" src="http://ecx.images-amazon.com/images/I/41RnIpNR85L._SX326_BO1,204,203,200_.jpg">
+While Pressfield reflects on how to get our work done, Goins is reflecting on what work we should be doing. How do we discover and live into the calling to our true life work? Goins reflects on the nature of calling and discovering our vocation. By listening to people's stories he discovers and unpacks seven common characteristics of people who embrace their calling:</p>
 <ol>
 <li>Awareness</li>
 <li>Apprenticeship</li>

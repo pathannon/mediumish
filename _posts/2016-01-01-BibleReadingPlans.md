@@ -30,7 +30,7 @@ Need a plan that requires a smaller time commitment? This plan from Discipleship
 <a href="https://www.navigators.org/wp-content/uploads/2017/08/navtool-5x5x5.pdf" target="_blank" rel="noopener">[ Download Here ]</a>
 
 <a href="http://www.scriptureawakening.com/digital/B90-Bookmark.pdf" target="_blank" rel="noopener"><strong>The Bible in 90 Days</strong></a>  
-Maybe you’re ready for a reading challenge. Perhaps you want to start 2016 with&nbsp;a bible reading boot camp. With this plan you can read the Bible cover to cover in 90 days.  
+Maybe you’re ready for a reading challenge. Perhaps you want to start this year with&nbsp;a bible reading boot camp. With this plan you can read the Bible cover to cover in 90 days.  
 <a href="http://www.scriptureawakening.com/digital/B90-Bookmark.pdf" target="_blank" rel="noopener">[ Download Here ]</a>
 
 What’s your plan for Bible reading this year? May God’s word light every step of your path throughout the year!

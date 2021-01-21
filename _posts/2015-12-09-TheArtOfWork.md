@@ -1,7 +1,7 @@
 ---
 title: "Book Review: The Art of Work"
 author: pat
-categories: book review
+categories: "book review"
 image: assets/images/books.jpg
 ---
 <p>I was in an epic struggle. Despite years of time and effort I wasn't sure I could finish the project. This wasn't your everyday kind of project; this was a life goal, alter your destiny kind of project. And I was losing the battle.</p>

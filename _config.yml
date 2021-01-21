@@ -3,7 +3,7 @@ name: "Pat Hannon"
 title: "Pat Hannon"
 description: "Pastor. Musician. Student of Jesus."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: 
 google_analytics: 
 disqus: 

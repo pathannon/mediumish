@@ -2,6 +2,7 @@
 layout: post
 title: Four Bible Reading Plans for a New Year
 author: pat
+image: assets/images/ReadingBible.jpg
 ---
 <h2>Happy New Year!</h2>
 What are your resolutions this year?

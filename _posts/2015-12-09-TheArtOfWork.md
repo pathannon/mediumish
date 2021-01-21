@@ -1,7 +1,7 @@
 ---
 title: "Book Review: The Art of Work"
 author: pat
-image: http://ecx.images-amazon.com/images/I/41RnIpNR85L._SX326_BO1,204,203,200_.jpg
+image: assets/images/books.jpg
 ---
 <p>I was in an epic struggle. Despite years of time and effort I wasn't sure I could finish the project. This wasn't your everyday kind of project; this was a life goal, alter your destiny kind of project. And I was losing the battle.</p>
 <p>I had the skills necessary to accomplish what was in front of me, but I was paralyzed with an inability to do the work. During this season I read <a href="http://amzn.to/1Nj6hNu" target="_blank" rel="noopener"><em>The War of Art</em> by Steven Pressfield</a>. I discovered names for my paralysis: fear and resistance. I was afraid that I didn't have what it takes, that I wouldn't be able to get the job done, that I would fail at a major life goal. So resistance took over, giving me all the reasons I would ever need to avoid instead of doing the work necessary.</p>

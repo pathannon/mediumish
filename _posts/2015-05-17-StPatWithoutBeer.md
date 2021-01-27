@@ -27,7 +27,7 @@ Give to support the mission of organizations who are rescuing and healing slaves
 ### 3. Pray
 
 Patrick became a person of prayer. A great way to celebrate St. Patrick's Day is to spend time in prayer. St. Patrick's Breastplate is a beautiful prayer attributed to Patrick. Why not pray it today?
-<a href="http://embracethegodlife.com/wp-content/uploads/2015/03/Kilbennan_St._Benins_Church_Window_St._Patrick_Detail_2010_09_16.jpg"><img class="alignright size-medium wp-image-1499" src="http://embracethegodlife.com/wp-content/uploads/2015/03/Kilbennan_St._Benins_Church_Window_St._Patrick_Detail_2010_09_16-205x300.jpg" alt="Kilbennan_St._Benin's_Church_Window_St._Patrick_Detail_2010_09_16" width="205" height="300" /></a>
+
 <blockquote>Christ with me,  
 Christ before me,  
 Christ behind me,  
@@ -69,6 +69,7 @@ Celebrate St. Patrick's Day by living as St. Patrick. Show love to your enemies.
 Do you desire vengeance because you were wronged? Pray and release the situation to God instead.  
 Are there people you just don't get along with? Seek their good.  
 Have you been taught to hate a group of people? Serve among them and learn their stories.  
+
 ---
 Feel free to pinch someone who isn't wearing green today. But let's celebrate St. Patrick's Day in ways that honor Patrick's life and ministry.
 

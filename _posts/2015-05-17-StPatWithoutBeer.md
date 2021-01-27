@@ -3,7 +3,7 @@ layout: post
 title: "5 Ways to Celebrate Saint Patrick's Day Without Beer and Brisket"
 author: pat
 categories: "Spiritual Formation"
-image: assets/images/2021masks.jpg
+image: assets/images/StPat.jpg
 ---
 Today is St. Patrick's Day. Many cities will host large celebrations to celebrate Irish heritage. These celebrations often involve parades, brisket, and lots of beer.
 

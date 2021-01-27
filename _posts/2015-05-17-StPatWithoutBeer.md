@@ -28,13 +28,13 @@ Give to support the mission of organizations who are rescuing and healing slaves
 
 Patrick became a person of prayer. A great way to celebrate St. Patrick's Day is to spend time in prayer. St. Patrick's Breastplate is a beautiful prayer attributed to Patrick. Why not pray it today?
 
-<blockquote>Christ with me,  
-Christ before me,  
-Christ behind me,  
-Christ in me,  
-Christ beneath me,  
-Christ above me,  
-Christ on my right,  
+<blockquote>Christ with me,  \
+Christ before me,\
+Christ behind me,  \
+Christ in me,  \
+Christ beneath me,  \
+Christ above me,  \
+Christ on my right,  \
 Christ on my left,  
 Christ when I lie down,  
 Christ when I sit down,  

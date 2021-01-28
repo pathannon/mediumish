@@ -3,7 +3,6 @@ layout: page
 title: About
 author: Pat
 permalink: /about/
-image: assetts/images/default.jpg
 ---
 ![Music & Writing](/assetts/images/default.jpg)
 # Pastor. Musician. Student of Jesus.

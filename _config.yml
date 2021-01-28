@@ -4,7 +4,7 @@ title: "Pat Hannon"
 description: "Pastor. Musician. Student of Jesus."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: pathannon.net
+baseurl:
 google_analytics: 
 disqus: 
 mailchimp-list: 

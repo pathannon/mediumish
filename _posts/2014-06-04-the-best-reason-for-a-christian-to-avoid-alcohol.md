@@ -1,6 +1,6 @@
 ---
 title: "The Best Reason For A Christian To Avoid Alcohol"
-category: [missional living]
+category: [MISSIONAL LIVING]
 author: pat
 image: assets/images/alcohol.jpg
 ---
@@ -17,6 +17,6 @@ But, when I open my eyes to the plight of the least of these in our world, I can
 
 The June 2014 issue of Christianity Today features the&nbsp;article <a href="http://www.christianitytoday.com/ct/2014/june/why-i-gave-up-alcohol.html" target="_blank">"Why I Gave Up Alcohol"</a> by D.L. Mayfield. Mayfield testifies to giving up alcohol as a way of loving her neighbors. She writes, "I didn't give up alcohol because I wanted to flee the evils of the world. I gave up alcohol as a way of engaging the evils of the world." Go read her <a href="http://www.christianitytoday.com/ct/2014/june/why-i-gave-up-alcohol.html" target="_blank">entire article</a>. It is very, very good.
 
-<h3>The best reason for a Christian to avoid alcohol is the church's mission to the least of these at the margins of society.<a href="http://ctt.ec/RKf8l" target="_blank">[Tweet This]</a></h3>
+<h3>The best reason for a Christian to avoid alcohol is the church's mission to the least of these at the margins of society. <a href="http://ctt.ec/RKf8l" target="_blank">[Tweet This]</a></h3>
 
 Perhaps Jesus might say to us today, "When you did not drink for one of the least of these brothers and sisters of mine, you did not drink for me."

@@ -2,7 +2,7 @@
 title: "The Secret to Doing Things You Hate, Without Hating It"
 author: pat
 categories: [ Leadership ]
-image: assets/images/default.jpg
+image: assets/images/hate.jpg
 ---
 Do you ever do things you hate?  
 Of course you do. Sometimes we all do.

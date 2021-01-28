@@ -4,13 +4,13 @@ author: pat
 categories: [ Leadership ]
 image: assets/images/default.jpg
 ---
-Do you ever do things you hate?
+Do you ever do things you hate?  
 Of course you do. Sometimes we all do.
 
 Life requires us to do things we hate sometimes.
 
-I've discovered the secret to doing things I hate, without hating it.
-Here's the secret:
+I've discovered the secret to doing things I hate, without hating it.  
+Here's the secret:  
 <strong>When you hate <em>what</em> you have to do, find motivation in <em>why</em> you have to do it. </strong>[<a title="Tweet This" href="http://clicktotweet.com/N_i4W" target="_blank">tweet this</a>]
 
 I hate getting up early, but I did today so my kids could enjoy a special breakfast program with their mom at school. I did not want to get up early (<em>what</em> I had to do), but I was motivated by <em>why</em> I needed to do it: to provide a good experience for my kids and wife. I love them more than I hate mornings. So I got up early today without hating it.
@@ -37,6 +37,6 @@ I'm  proud of her. She has been training for a few months and is ready to rock t
 
 <strong>Sometimes, doing the things you hate just requires a bit of motivation. Find your <em>why</em>. </strong>[<a title="Tweet This" href="http://clicktotweet.com/5ysA4" target="_blank">tweet this</a>]
 
-What about you?
-What do you hate doing?
+What about you?  
+What do you hate doing?  
 Might discovering your <em>why</em> help?

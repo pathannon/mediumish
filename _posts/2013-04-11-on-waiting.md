@@ -7,13 +7,13 @@ image: assets/images/wait.jpg
 > I waited patiently for the Lord;  
 > he inclined to me and heard my cry.  
 > -Psalm 40:1  
-<br>
+
 > For God alone my soul waits in silence; from him comes my salvation.  
 > -Psalm 62:1  
-<br>
+
 > Those who wait for the Lord shall renew their strength, they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint.  
 > -Isaiah 40:31  
-<br>
+
 > The Lord is good to those who wait for him,  
 > to the soul that seeks him.  
 > It is good that one should wait quietly  

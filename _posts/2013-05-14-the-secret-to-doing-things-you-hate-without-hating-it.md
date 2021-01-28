@@ -8,10 +8,6 @@ Do you ever do things you hate?
 Of course you do. Sometimes we all do.
 
 Life requires us to do things we hate sometimes.
-Do you ever do things you hate?
-Of course you do. Sometimes we all do.
-
-Life requires us to do things we hate sometimes.
 
 I've discovered the secret to doing things I hate, without hating it.
 Here's the secret:

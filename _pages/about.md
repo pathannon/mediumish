@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-author: Pat
+author: pat
 permalink: /about/
 ---
 ![Music & Writing](assetts/images/default.jpg)

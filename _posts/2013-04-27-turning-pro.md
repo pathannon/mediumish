@@ -10,7 +10,7 @@ I was writing again, with a plan to do so seriously and regularly. Visions of me
 
 And Here's where it happened. Having written a modest blog entry it was time to post my work. <em>ARGH! Frustration!</em> My free-but-good-enough blog host had updated its site to be more "user-friendly" and "intuitive." (I'm making air quotes here.) It took over an hour to get the spacing right on the article. I could no longer adjust the placement of my cool-image-that-catches-the-readers-attention. It was a pain and I was ticked.
 
-This platform simply could not work for me any longer if I was going to attempt to write with any seriousness. But a new website would cost money I didn't have. And what good is new website since I hardly ever post and hardly anyone ever reads.
+This platform simply could not work for me any longer if I was going to attempt to write with any seriousness. But a new website would cost money I didn't have. And what good is a new website since I hardly ever post and hardly anyone ever reads.
 
 <strong>Then the voice of the best-me spoke above the frustration, doubt, and negative self-talk: <em>It's time to turn pro</em>.</strong>
 

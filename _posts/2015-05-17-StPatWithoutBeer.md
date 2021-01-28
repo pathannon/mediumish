@@ -32,24 +32,24 @@ Patrick became a person of prayer. A great way to celebrate St. Patrick's Day is
 Christ before me,<br>
 Christ behind me,<br>
 Christ in me,<br>
-Christ beneath me,  \
-Christ above me,  \
-Christ on my right,  \
-Christ on my left,  
-Christ when I lie down,  
-Christ when I sit down,  
-Christ when I arise,  
-Christ in the heart of every man who thinks of me,  
-Christ in the mouth of everyone who speaks of me,  
-Christ in every eye that sees me,  
-Christ in every ear that hears me.  
-
-I arise today  
-Through a mighty strength, the invocation of the Trinity,  
-Through belief in the Threeness,  
-Through confession of the Oneness  
-of the Creator of creation.  
-
+Christ beneath me,<br>
+Christ above me,<br>
+Christ on my right,<br>
+Christ on my left,<br>  
+Christ when I lie down,<br>  
+Christ when I sit down,<br> 
+Christ when I arise,<br>  
+Christ in the heart of every man who thinks of me,<br>  
+Christ in the mouth of everyone who speaks of me,<br> 
+Christ in every eye that sees me,<br>
+Christ in every ear that hears me.<br>
+<br>
+I arise today<br>
+Through a mighty strength, the invocation of the Trinity,<br>
+Through belief in the Threeness,<br>
+Through confession of the Oneness<br>
+of the Creator of creation.<br>
+<br>
 -From St. Patrick's Breastplate</blockquote>
 Find the full prayer at <a href="http://seedbed.com/feed/breastplate-st-patrick/" target="_blank" rel="noopener">Seedbed</a>.
 

@@ -2,7 +2,7 @@
 title: "On Waiting"
 author: pat
 categories: [ Spiritual Formation ]
-image: assets/images/default.jpg
+image: assets/images/wait.jpg
 ---
 <blockquote>I waited patiently for the Lord;
 he inclined to me and heard my cry.

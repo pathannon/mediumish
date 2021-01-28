@@ -1,6 +1,6 @@
 ---
 title: "The Best Reason For A Christian To Avoid Alcohol"
-category: [MISSIONAL LIVING]
+category: [ Missional Living ]
 author: pat
 image: assets/images/alcohol.jpg
 ---

@@ -4,7 +4,7 @@ title: About
 author: pat
 permalink: /about/
 ---
-![Music & Writing](https://pathannon.net/assetts/images/default.jpg)
+![Music and Writing](https://pathannon.net/assetts/images/default.jpg)
 # Pastor. Musician. Student of Jesus.
 
 > Hope is a good thing, maybe the best of things.<br>

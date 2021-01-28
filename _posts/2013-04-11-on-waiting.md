@@ -4,21 +4,22 @@ author: pat
 categories: [ Spiritual Formation ]
 image: assets/images/wait.jpg
 ---
-<blockquote>I waited patiently for the Lord;  
-he inclined to me and heard my cry.  
--Psalm 40:1  
+> I waited patiently for the Lord;  
+> he inclined to me and heard my cry.  
+> -Psalm 40:1  
 <br>
-For God alone my soul waits in silence; from him comes my salvation.  
--Psalm 62:1  
+> For God alone my soul waits in silence; from him comes my salvation.  
+> -Psalm 62:1  
 <br>
-Those who wait for the Lord shall renew their strength, they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint.  
--Isaiah 40:31  
+> Those who wait for the Lord shall renew their strength, they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint.  
+> -Isaiah 40:31  
 <br>
-The Lord is good to those who wait for him,  
-to the soul that seeks him.  
-It is good that one should wait quietly  
-for the salvation of the Lord.  
--Lamentations 3:25-26</blockquote>
+> The Lord is good to those who wait for him,  
+> to the soul that seeks him.  
+> It is good that one should wait quietly  
+> for the salvation of the Lord.  
+> -Lamentations 3:25-26
+
 These are beautiful promises, aren't they?  
 Goodness. Strength and salvation. Running without growing weary. Walking without becoming faint. Flying with eagle's wings. All beautiful promises.  
 We love these promises.

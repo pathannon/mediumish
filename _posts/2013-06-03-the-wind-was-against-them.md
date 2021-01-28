@@ -1,7 +1,7 @@
 ---
 title: The Wind Was Against Them
 author: pat
-categories: [ Spiritual Formation ]
+categories: [ Leadership ]
 image: assets/images/boats.jpg
 ---
 <blockquote>Immediately Jesus made his disciples get into the boat and go on ahead of him to Bethsaida, while he dismissed the crowd. After leaving them, he went up on a mountainside to pray. Later that night, the boat was in the middle of the lake, and he was alone on land. He saw the disciples straining at the oars, because the wind was against them. Shortly before dawn he went out to them, walking on the lake. He was about to pass by them, but when they saw him walking on the lake, they thought he was a ghost. They cried out, because they all saw him and were terrified. Immediately he spoke to them and said, “Take courage! It is I. Don’t be afraid.” Then he climbed into the boat with them, and the wind died down. They were completely amazed. (Mark 6:45-51).</blockquote>

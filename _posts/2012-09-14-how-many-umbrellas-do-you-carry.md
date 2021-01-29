@@ -14,7 +14,7 @@ Then we carry a second “umbrella” that is simply fear that our attempts to h
 
 Holding that first useful umbrella takes one hand. A second umbrella only gets in the way, leaving you with no open hands.
 
-<strong>What is your “second umbrella”?</strong>
+<strong>What is your “second umbrella”?</strong>  
 For a few minutes today, try to carry just one, and see how good it is to have a free hand.
 
 <em>“So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.” -Isaiah 41:10</em>

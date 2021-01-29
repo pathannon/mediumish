@@ -2,7 +2,7 @@
 title: Give Presence
 author: pat
 category: [ Spiritual Formation ]
-image: assets/images/familymountain.jpg
+image: assets/images/gift.jpg
 ---
 This week North Americans celebrate Thanksgiving, a day to rest and carb-load so we have the energy reserves necessary for Black Friday shopping. Thursday we’ll try real hard to be thankful for what we have so that Friday we can get on with the important business of being thankful for what we are about to buy. Of course, all the stuff we buy on Friday will become the stuff we pretend to be thankful for next year.
 

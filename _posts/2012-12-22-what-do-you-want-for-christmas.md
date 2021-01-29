@@ -1,5 +1,6 @@
 ---
 title: What Do You Want For Christmas?
+author: pat
 category: [ Spiritual Formation ]
 image: assets/images/gift.jpg
 ---

@@ -1,13 +1,14 @@
 ---
 title: What Do You Want For Christmas?
 category: [ Spiritual Formation ]
-image: assets/images/default.jpg
+image: assets/images/gift.jpg
 ---
 > “Why spend money on what is not bread, and your labor on what does not satisfy?” - Isaiah 55:2
 
 What do you want for Christmas? <em>Ask for more!</em>
 
 I don’t usually encourage people to lengthen their Christmas lists. “Christmas has&nbsp;become so consumeristic,” I have often said. “Do we really need to ask for so much stuff?”  
+
 I’ve often encouraged people to be satisfied with less.  
 This year I’m telling people to ask for more.  
 

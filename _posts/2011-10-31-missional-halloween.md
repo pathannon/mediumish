@@ -2,7 +2,7 @@
 title: Missional Halloween
 author: pat
 category: [ Missional Living ]
-image: assetts/images/halloween.jpg
+image: assets/images/halloween.jpg
 ---
 Today is Halloween, and once again the interwebs are filled with ideas about how Christians should appropriately approach Halloween. Should we boycott, offer alternative celebrations, ignore the holiday, or hand out bibles to everyone who rings our doorbell?
 

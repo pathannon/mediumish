@@ -1,5 +1,6 @@
 ---
 title: 1 Bible Verse Leaders MUST Memorize
+author: pat
 category: [ Leadership ]
 image: assets/images/
 ---

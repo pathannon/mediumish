@@ -13,4 +13,4 @@ Isaiah 64 opens with Isaiah’s wish list. He cries out for that one thing that 
 
 Advent calls us to wait in hope that God is breaking into the world. In light of this hope, what will be on your Christmas list this year?
 
-<em>-Rev. Dr. Pat Hannon, from <a href="http://iwublog.indwes.edu/bid/96831/IWU-Looks-Toward-Christmas-Advent-2011" title="The Indiana Wesleyan University Advent Devotional Guide 2011" target="_blank">The Indiana Wesleyan&nbsp;University&nbsp;Advent Devotional Guide 2011</a></em>
+-Rev. Dr. Pat Hannon, from <em>The Indiana Wesleyan University Advent Devotional Guide 2011</em>

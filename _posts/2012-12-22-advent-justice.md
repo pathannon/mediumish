@@ -1,5 +1,6 @@
 ---
 title: Advent Justice
+author: pat
 category: [ Spiritual Formation ]
 image: assets/images/advent.jpg
 ---

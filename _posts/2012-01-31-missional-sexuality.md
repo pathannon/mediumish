@@ -2,7 +2,7 @@
 title: Missional Sexuality
 author: pat
 category: [ Spiritual Formation ]
-image:
+image: assets/images/holdinghands.jpg
 ---
 *This article was [originally posted](http://faithoncampus.com/blog/missional-sexuality/) at [the Sex and the Soul Blogathon at Faith ON Campus](http://faithoncampus.com/archives/blog-a-thons/sex-the-soul/).*
 

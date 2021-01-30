@@ -1,7 +1,7 @@
 ---
 Title: "News Release: Rev. Dr. Patrick Hannon Named 2011 Distinguished Alumnus"
 category: [ News Release ]
-image: assets/images/BE3001A5-138D-4887-A882-28CDDF28352E.jpeg
+image: assets/images/CE3F064D-8161-4D85-831F-CFDB30105406.jpeg
 ---
 <a href="http://www.anderson.edu/" target="_blank">Anderson University</a>&nbsp;<a href="http://www.anderson.edu/sot/" target="_blank">School of Theology</a>&nbsp;honored Rev. Dr. Phil Kinley with the 2011 Distinguished Ministries Award, Rev. Dr. Patrick Hannon with the 2011 Distinguished Alumni Award, Sarah Blake with the 2011 Distinguished Young Alumni Award, and Rev. Dr. Fred Shively with the 2011 Distinguished Service Award at the annual SOT Alumni &amp; Friends Annual Awards Luncheon on Monday, June 27.
 

@@ -4,7 +4,7 @@ author: pat
 category: [ Missional Living ]
 image: assets/images/jesusprays.jpg
 ---
-*This article was [originally posted](http://faithoncampus.com/blog/listening-in-as-jesus-prays//) at [the Real Life, Real Faith Blogathon at Faith ON Campus]faithoncampus.com/archives/blog-a-thons/real-life-real-faith/).*
+*This article was [originally posted](http://faithoncampus.com/blog/listening-in-as-jesus-prays//) at [the Real Life, Real Faith Blogathon at Faith ON Campus](faithoncampus.com/archives/blog-a-thons/real-life-real-faith/).*
 
 Here’s what I’ve been thinking about lately: When Jesus prays, we should pay attention.
 

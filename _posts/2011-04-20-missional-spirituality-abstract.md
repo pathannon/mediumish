@@ -5,7 +5,7 @@ author: pat
 image: 
 ---
 Posting here, for those who desire to peer farther into the abyss, the Abstract of my Professional Project&nbsp;<em>Missional Spirituality: Practices for Developing Missional Disciples Among Emerging Adult University Students.</em>
-----
+---
 <strong>Abstract</strong>
 
 The prayer of Jesus in John 17 invites all who follow Jesus into a way of life marked by radical intimacy with the triune God, authentic community with the members of the church, and mission in the world in the way of Jesus. These three elements of missional spirituality form disciples to partner with God in God’s mission. Indiana Wesleyan University seeks to enable students to become world changers who partner with God in God’s mission in the world. This Professional Project argues that developing world changing students necessitates that emerging adults develop the practices of a John 17 missional spirituality, forming them to become missional disciples, with missional imaginations, who follow the call of Christ to reveal the present reality of the Kingdom of God.

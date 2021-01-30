@@ -45,3 +45,5 @@ Are students engaging practices from all three elements? Are they practicing an 
 Do our ministries help them to grow in each of these areas, developing habits and practices of devotion, service, and community? Or do we focus on only one or two of these areas?
 
 If our ministries to students are fully shaped by the prayer of Jesus then we must help them to grow in all three areas. Students must be formed by intimacy with God, ministry in the world, and Christian community in order to fully live into God’s purposes.
+
+After all, this is what Jesus prays when he prays for them.

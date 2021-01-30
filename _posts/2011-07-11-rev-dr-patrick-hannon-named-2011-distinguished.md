@@ -12,3 +12,5 @@ Hannon has already served with distinction in his short ministry career. For mor
 Hannon found his calling confirmed when he accepted the position as Associate Dean of the Chapel for Indiana Wesleyan University’s Wesley Chapel. In this capacity he serves as one of the campus pastors for IWU where he provides spiritual formation guidance and pastoral care to college students. Hannon also serves as an adjunct faculty member at this institution.
 
 Hannon and his wife Alison, have three children, Eliana, Ashlyn, and Ian, who keep their lives full and enjoyable.
+
+![AU School of Theology honors distinguished members](assets/images/2011 Alumni Award.PNG)

@@ -13,4 +13,4 @@ Hannon found his calling confirmed when he accepted the position as Associate De
 
 Hannon and his wife Alison, have three children, Eliana, Ashlyn, and Ian, who keep their lives full and enjoyable.
 
-![AU School of Theology honors distinguished members](assets/images/2011 Alumni Award.PNG)
+![AU School of Theology honors distinguished members](https://pathannon.net/assets/images/2011 Alumni Award.PNG)

@@ -37,6 +37,7 @@ These are the elements of a missional spirituality, and all three are necessary:
 - an intimate relationship with the triune God.
 - authentic community with other disciples of Jesus.
 - being sent into the world to do the work of the Father.
+
 So, how are we doing in our ministry to students?
 
 Are students engaging practices from all three elements? Are they practicing an intimate relationship with God? Are they joining in God’s work in the world? And are they doing each of these in the context of Christian community

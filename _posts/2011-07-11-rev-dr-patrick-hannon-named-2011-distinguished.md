@@ -3,12 +3,7 @@ Title: "News Release: Rev. Dr. Patrick Hannon Named 2011 Distinguished Alumnus"
 category: [ News Release ]
 image: assets/images/BE3001A5-138D-4887-A882-28CDDF28352E.jpeg
 ---
-<a href="http://www.anderson.edu/w/news/2011/au-school-of-theology-honors-distinguished-members-3"> Rev. Dr. Patrick Hannon Named 2011 Distinguished Alumnus</a>
-<div class="link_description">
-
-<span><a href="http://www.anderson.edu/" target="_blank">Anderson University</a>&nbsp;<a href="http://www.anderson.edu/sot/" target="_blank">School of Theology</a>&nbsp;honored Rev. Dr. Phil Kinley with the 2011 Distinguished Ministries Award, Rev. Dr. Patrick Hannon with the 2011 Distinguished Alumni Award, Sarah Blake with the 2011 Distinguished Young Alumni Award, and Rev. Dr. Fred Shively with the 2011 Distinguished Service Award at the annual SOT Alumni &amp; Friends Annual Awards Luncheon on Monday, June 27.</span>
-
-<span></span>
+<a href="http://www.anderson.edu/" target="_blank">Anderson University</a>&nbsp;<a href="http://www.anderson.edu/sot/" target="_blank">School of Theology</a>&nbsp;honored Rev. Dr. Phil Kinley with the 2011 Distinguished Ministries Award, Rev. Dr. Patrick Hannon with the 2011 Distinguished Alumni Award, Sarah Blake with the 2011 Distinguished Young Alumni Award, and Rev. Dr. Fred Shively with the 2011 Distinguished Service Award at the annual SOT Alumni &amp; Friends Annual Awards Luncheon on Monday, June 27.
 
 <strong>Rev. Dr. Patrick Hannon</strong>&nbsp;is a promising young alumnus serving his community, Christian higher education, and the church-at-large. Hannon received his B.A. in Christian Ministries and Music Business from Anderson University in 1996, and both this&nbsp;<a href="http://www.anderson.edu/sot/academics/mdiv/" target="_blank">M. Div.</a>&nbsp;(2000) and&nbsp;<a href="http://www.anderson.edu/sot/academics/dmin/" target="_blank">D. Min.</a>&nbsp;from Anderson University School of Theology 2011. He holds the distinction as one of fewer than 10 “Super Alumni” in Anderson College-Anderson University history to hold a bachelor’s degree and two graduate degrees all from our institution.
 
@@ -17,5 +12,3 @@ Hannon has already served with distinction in his short ministry career. For mor
 Hannon found his calling confirmed when he accepted the position as Associate Dean of the Chapel for Indiana Wesleyan University’s Wesley Chapel. In this capacity he serves as one of the campus pastors for IWU where he provides spiritual formation guidance and pastoral care to college students. Hannon also serves as an adjunct faculty member at this institution.
 
 Hannon and his wife Alison, have three children, Eliana, Ashlyn, and Ian, who keep their lives full and enjoyable.
-
-</div>

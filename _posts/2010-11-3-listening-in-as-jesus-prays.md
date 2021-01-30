@@ -18,7 +18,7 @@ He gives final instructions.
 
 And then Jesus prays.
 
-The gospels regularly report that Jesus prays. It is mentioned that prayer is a regular pattern of Jesus. Yet rarely are we given the words that Jesus prays. But when Jesus stops to pray on this fated night, we are given the words that he prays. As he unfolds his heart to God and voices his hopes for those who follow him, we get to listen in: As you, Father, are in me and I am in you, may they also be in us. . .may they be one, as we are one. . .as you have sent me into the world, so I have sent them into the world…
+The gospels regularly report that Jesus prays. It is mentioned that prayer is a regular pattern of Jesus. Yet rarely are we given the words that Jesus prays. But when Jesus stops to pray on this fated night, we are given the words that he prays. As he unfolds his heart to God and voices his hopes for those who follow him, we get to listen in: *As you, Father, are in me and I am in you, may they also be in us. . .may they be one, as we are one. . .as you have sent me into the world, so I have sent them into the world…*
 
 I am beginning to think that we need to listen harder. We need to pay more attention to the heart and hope of Christ that are reveled in this prayer from John 17.
 
@@ -26,17 +26,17 @@ Prior to that night the disciples didn’t get it. And neither do a great majori
 
 Might it just be possible that paying closer attention to this prayer of Jesus could open the door for our students to live not as adherents of an imposter Christianity but as disciples who join in God’s mission? The prayer of Jesus in John 17 invites our students, and all of Jesus’ disciples, into a missional spirituality marked by radical intimacy with the Triune God, authentic community with the members of the church, and mission in the world in the way of Jesus.
 
-As you, Father, are in me and I am in you, may they also be in us. What a radical invitation! Followers of Jesus are invited to share in the mutual indwelling that characterizes the eternal oneness of the members of the Trinity. Jesus’ disciples are to be found in relationship to the Father and the Son in the same way that the Father and the Son are in relationship with one another. This is the first element of a missional spirituality: to enter into intimate relationship with the triune God.
+*As you, Father, are in me and I am in you, may they also be in us.* What a radical invitation! Followers of Jesus are invited to share in the mutual indwelling that characterizes the eternal oneness of the members of the Trinity. Jesus’ disciples are to be found in relationship to the Father and the Son in the same way that the Father and the Son are in relationship with one another. This is the first element of a missional spirituality: to enter into intimate relationship with the triune God.
 
-May they be one, as we are one, I in them and you in me, that they may become completely one. If disciples of Jesus share in the unity of the trinity, it follows that they are also united in community with one another. Jesus understands the need for individuals to become part of something larger than themselves, to become united in a community that can sustain them in their life and mission. This is the second element of a missional spirituality: to enter into authentic community with other disciples of Jesus.
+*May they be one, as we are one, I in them and you in me, that they may become completely one.* If disciples of Jesus share in the unity of the trinity, it follows that they are also united in community with one another. Jesus understands the need for individuals to become part of something larger than themselves, to become united in a community that can sustain them in their life and mission. This is the second element of a missional spirituality: to enter into authentic community with other disciples of Jesus.
 
-As you have sent me into the world, so I have sent them into the world. The first two elements of a missional spirituality are for the purpose of the third element, that disciples would participate in the Missio Dei, the divine mission in the world. This is the third element of a missional spirituality: to be sent into the world to do the work of the Father.
+*As you have sent me into the world, so I have sent them into the world.* The first two elements of a missional spirituality are for the purpose of the third element, that disciples would participate in the Missio Dei, the divine mission in the world. This is the third element of a missional spirituality: to be sent into the world to do the work of the Father.
 
 These are the elements of a missional spirituality, and all three are necessary:
 
-an intimate relationship with the triune God.
-authentic community with other disciples of Jesus.
-being sent into the world to do the work of the Father.
+- an intimate relationship with the triune God.
+- authentic community with other disciples of Jesus.
+- being sent into the world to do the work of the Father.
 So, how are we doing in our ministry to students?
 
 Are students engaging practices from all three elements? Are they practicing an intimate relationship with God? Are they joining in God’s work in the world? And are they doing each of these in the context of Christian community

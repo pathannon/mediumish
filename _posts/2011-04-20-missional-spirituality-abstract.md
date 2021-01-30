@@ -5,6 +5,7 @@ author: pat
 image: 
 ---
 Posting here, for those who desire to peer farther into the abyss, the Abstract of my Professional Project&nbsp;<em>Missional Spirituality: Practices for Developing Missional Disciples Among Emerging Adult University Students.</em>
+
 ---
 <strong>Abstract</strong>
 

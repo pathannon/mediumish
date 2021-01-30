@@ -1,5 +1,5 @@
 ---
-Title: "News Release: Rev. Dr. Patrick Hannon Named 2011 Distinguished Alumnus"
+title: "News Release: Rev. Dr. Patrick Hannon Named 2011 Distinguished Alumnus"
 category: [ News Release ]
 image: assets/images/CE3F064D-8161-4D85-831F-CFDB30105406.jpeg
 ---
